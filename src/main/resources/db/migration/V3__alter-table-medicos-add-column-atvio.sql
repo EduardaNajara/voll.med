@@ -1,0 +1,1 @@
+ALTER TABLE duda.medicos ADD ativo BOOLEAN DEFAULT TRUE;
